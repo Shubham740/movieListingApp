@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="100"
+    tools:mContext=".mCurrentragment.MovieListingFragment">
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/fragmentMovieListingRecyclerViewId"
+        android:layout_width="match_parent"
+        android:layout_weight="99"
+        android:layout_height="0dp">
+    </android.support.v7.widget.RecyclerView>
+
+
+       <ProgressBar
+           android:id="@+id/mCircularProgressbar"
+           style="?android:progressBarStyleLarge"
+           android:layout_width="40dp"
+           android:layout_height="40dp"
+           android:tag="@string/progressBarTag"
+           android:layout_weight="1"
+           android:visibility="gone"
+           android:layout_gravity="bottom|center"
+
+           />
+    </LinearLayout>

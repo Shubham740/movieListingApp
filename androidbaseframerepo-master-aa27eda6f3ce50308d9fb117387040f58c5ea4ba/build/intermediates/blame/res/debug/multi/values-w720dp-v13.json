@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/values-w720dp/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 76,
+                        "endOffset": 352
+                    }
+                }
+            }
+        ]
+    }
+]

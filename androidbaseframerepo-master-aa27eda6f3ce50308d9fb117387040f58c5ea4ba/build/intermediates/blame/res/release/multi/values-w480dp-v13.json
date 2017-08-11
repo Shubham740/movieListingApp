@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w480dp-v13/values-w480dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/values-w480dp/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 61,
+                        "endOffset": 337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/values-w480dp/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 567,
+                        "endColumn": 71,
+                        "endOffset": 634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 60,
+                    "endOffset": 245
+                },
+                "from": {
+                    "file": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/values-w480dp/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 863,
+                        "endColumn": 60,
+                        "endOffset": 919
+                    }
+                }
+            }
+        ]
+    }
+]

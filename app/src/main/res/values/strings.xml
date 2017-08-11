@@ -1,0 +1,56 @@
+<resources>
+
+    <string name="app_name">MovieListingApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank mCurrentragment</string>
+    <string name="movie_name">Movie_Name</string>
+    <string name="tilteUpComing">UPCOMING</string>
+    <string name="lastViewed">LAST VIEWED</string>
+    <string name="movie_decription">Movie Decription</string>
+    <string name="NumberOfVotes">Votes</string>
+    <string name="VotesText">Votes</string>
+    <string name="fragment2">fragment2</string>
+    <string name="setFont"><![CDATA[<font color=\'#123456\'>]]></string>
+    <string name="Loading">Loading</string>
+    <string name="FONT"><![CDATA[</font>]]></string>
+    <string name="synopsis">synopsis</string>
+    <string name="Title">About</string>
+    <string name="videoNotAvailable">VIDEO IS NOT AVAILABLE </string>
+    <string name="RELEASED_DATE">Released Date</string>
+    <string name="ORIGNAL_LANGUAGE_IS">Orignal Language is</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="movie_listing_app">Movie Listing App</string>
+    <string name="Imageview">imageView</string>
+    <string name="VIEWS">views</string>
+    <string name="DESCRIPTION">Description:</string>
+    <string name="SET_TITLE">About App</string>
+    <string name="APP_VERSION_IS">App Version is</string>
+    <string name="APP_NAME">App Name</string>
+    <string name="imageview">Imageview</string>
+    <string name="ERROR_OCCUR">Data is Not Available</string>
+    <string name="VIDEO_NOT_DISPLAYED">video not available</string>
+    <string name="VIDEO_NOT_AVAILABLE">video not available</string>
+    <string name="CHECK_NETWROK_CONNECTION">Please check your Internet Connection</string>
+    <string name="progressBarTag">progressBarTag</string>
+    <string name="TOP_RATED">ToP Rated</string>
+    <string name="NOW_PLAYING">Now Playing</string>
+    <string name="POPULAR_MOVIES">Popular Movies</string>
+    <string name="POPULAR_TV_SHOWS">Popular Tv Shows</string>
+
+    <string name="DATA_NOT_AVAILABLE">Data is not Available</string>
+    <string name="OK">Ok</string>
+    <string name="UPCOMING">Upcoming</string>
+
+    <string name="about">About</string>
+    <string name="version">Version</string>
+    <string name="TITLE">About</string>
+    <string name="CANNOT_PLAY_VIDEO">Can\'t Play Video</string>
+
+
+</resources>

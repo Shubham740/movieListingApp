@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/androidTest/debug/color/common_signin_btn_text_light.xml",
+        "source": "/root/.android/build-cache/bba2ccf1fba4a014357c7a1b3875407d175be499/output/res/color/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/androidTest/debug/color/abc_search_url_text_holo.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/color/abc_search_url_text_holo.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/androidTest/debug/color/common_signin_btn_text_dark.xml",
+        "source": "/root/.android/build-cache/bba2ccf1fba4a014357c7a1b3875407d175be499/output/res/color/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/androidTest/debug/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/root/.android/build-cache/bba2ccf1fba4a014357c7a1b3875407d175be499/output/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/androidTest/debug/color/wallet_primary_text_holo_light.xml",
+        "source": "/root/.android/build-cache/bba2ccf1fba4a014357c7a1b3875407d175be499/output/res/color/wallet_primary_text_holo_light.xml"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/layout/abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/layout/abc_action_bar_home.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/layout/abc_action_bar_home.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_include.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/layout/abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/layout/dialog_photo_edit_options.xml",
+        "source": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/res/layout/dialog_photo_edit_options.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_overlay.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/layout/abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_include.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/layout/abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/layout/abc_action_bar_tabbar.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/layout/abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/layout/dialog_custom_alert.xml",
+        "source": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/res/layout/dialog_custom_alert.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/layout/abc_action_bar_tab.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/layout/abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/layout/abc_popup_menu_item_layout.xml"
+    }
+]

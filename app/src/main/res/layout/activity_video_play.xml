@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.assignment.root.movielistingapp.activity.VideoPlayActivity">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <com.google.android.youtube.player.YouTubePlayerView
+            android:id="@+id/youtube_player"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </com.google.android.youtube.player.YouTubePlayerView>
+    </FrameLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:id="@+id/scrollViewId"
+        android:verticalScrollbarPosition="right">
+    <LinearLayout
+        android:id="@+id/linearLayoutId"
+        android:layout_width="match_parent"
+
+        android:layout_height="match_parent"
+
+        android:orientation="vertical"
+        android:weightSum="5">
+
+        <TextView
+            android:id="@+id/textView_name_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/marginTenDp"
+            android:paddingLeft="@dimen/paddingLeft"
+            android:textColor="@color/black"
+            android:textSize="@dimen/twentyFiveSp" />
+
+        <TextView
+            android:id="@+id/textViewTotalViewsId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/paddingLeft"
+            android:paddingRight="@dimen/paddingLeft"
+            android:textSize="@dimen/eighteenSp" />
+
+        <TextView
+            android:id="@+id/releasedDateTextViewID"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/paddingLeft"
+            android:textSize="@dimen/fifteenSp" />
+
+
+
+
+            <TextView
+                android:id="@+id/textViewOverViewId"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/paddingLeft"
+                android:paddingRight="@dimen/paddingLeft" />
+
+    </LinearLayout>
+    </ScrollView>
+</LinearLayout>

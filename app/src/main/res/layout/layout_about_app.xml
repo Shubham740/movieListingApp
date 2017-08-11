@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="190dp"
+    android:layout_margin="@dimen/marginTenDp"
+    android:orientation="vertical"
+   >
+
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/paddingFifteenDp"
+        android:text="@string/APP_NAME"
+
+        android:textColor="@color/darkGrey"
+        android:textSize="@dimen/TwelveSp" />
+
+    <TextView
+        android:id="@+id/aboutAppTitleTextViewId"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/paddingFifteenDp"
+        android:textColor="@color/black"
+        android:textSize="@dimen/TwelveSp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+
+        android:paddingLeft="@dimen/paddingFifteenDp"
+        android:text="@string/version"
+        android:textColor="@color/darkGrey"
+        android:textSize="@dimen/TwelveSp" />
+
+    <TextView
+        android:id="@+id/aboutAppVersionTextViewId"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/paddingFifteenDp"
+        android:textColor="@color/black"
+        android:textSize="@dimen/TwelveSp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        >
+
+        <Button
+            android:id="@+id/aboutAppOkButtonTextViewId"
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:background="@color/white"
+            android:gravity="center"
+
+            android:text="@string/OK"
+            android:textColor="@color/blue" />
+    </RelativeLayout>
+</LinearLayout>

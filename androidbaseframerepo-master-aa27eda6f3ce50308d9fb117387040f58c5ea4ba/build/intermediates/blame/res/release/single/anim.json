@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/user/Documents/clone (3)/movielistingapp/androidbaseframerepo-master-aa27eda6f3ce50308d9fb117387040f58c5ea4ba/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/root/.android/build-cache/b6eea99519eb8d55e82b765e92d30e0113e29c57/output/res/anim/abc_slide_out_bottom.xml"
+    }
+]

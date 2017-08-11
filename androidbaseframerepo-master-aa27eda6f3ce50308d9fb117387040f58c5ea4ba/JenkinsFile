@@ -1,0 +1,9 @@
+node {
+	stage 'checkout'
+  		checkout scm
+        Stage ‘Clean’
+        	gradle clean
+  	stage 'Assemble'
+		gradle assembleRelease
+     } 
+}

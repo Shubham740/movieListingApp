@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/user/Documents/clone (3)/movielistingapp/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/home/user/Documents/clone (3)/movielistingapp/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_5544b77b372001d8a35d5266873cdd742ec4a994/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/Documents/clone (3)/movielistingapp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/user/Documents/clone (3)/movielistingapp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_01e98adc73bed1aa0d46feafda763cd364edf2b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/user/Documents/clone (3)/movielistingapp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5c786fa99351a63cb6ca93c2d314cfc83c256df7">
+        <dex dex="/home/user/Documents/clone (3)/movielistingapp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2736b59133174bbdc3f4c81e2016eaeb2878a760/classes.dex" />
+    </item>
+
+</items>
